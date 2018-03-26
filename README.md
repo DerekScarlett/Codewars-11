@@ -8,7 +8,9 @@ and the positive numbers on the right.
 -sort through the array to find negative numbers,  should be on the lefts side of array (same order as they appeared)
 
 -sort through my array and find postive numbers,  should be on the right side of the array (same order as they appeared) 
+
  Solution:
+ 
  function arrSort(input){
  let negative = [];
  let positive = [];
